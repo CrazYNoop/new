@@ -3,6 +3,11 @@ added informatino
 added info from cmd
 _____________________
 
+<<<<<<< HEAD
 Add new branch and add new info
 
 +++++++++++++++++++++++++++++++
+=======
+This is a test
+==============
+>>>>>>> 403c1afe20cc95f3aba273d8f53874b00182fec6
